@@ -1,0 +1,6 @@
+
+Table :--menucat
+
+Mysql Code :--['name',$str]
+
+Form Code :--$fdata->co("input","name",1)

@@ -1,0 +1,6 @@
+
+Table :--molls
+
+Mysql Code :--['name',$str,'slug',$str,'image',$str,'front',$int,'text',$mtext]
+
+Form Code :--$fdata->co("input","name",1).$fdata->co("input","slug",1).$fdata->image("Image Upload","image").$fdata->text("Text","text",1)

@@ -1,0 +1,12 @@
+    public function add()
+	{
+	
+    }
+    public function edit()
+	{
+	
+    }
+    public function show()
+	{
+			
+	}

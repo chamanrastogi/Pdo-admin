@@ -1,0 +1,9 @@
+    public static function hd_css()
+    {
+    }
+    public static function hd_script()
+    {
+    }
+    public static function extra_script()
+    {
+    }

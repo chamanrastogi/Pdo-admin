@@ -1,0 +1,8 @@
+{
+    "require": {
+        "intervention/image": "^2.5",
+        "illuminate/hashing": "^6.18",
+        "coderatio/simple-backup": "^1.0",
+        "phpmailer/phpmailer": "^6.1"
+    }
+}
